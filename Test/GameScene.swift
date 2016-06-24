@@ -6,6 +6,8 @@
 //  Copyright (c) 2016 mitchell hudson. All rights reserved.
 //
 
+// Changed background to red
+
 import SpriteKit
 
 class GameScene: SKScene {
